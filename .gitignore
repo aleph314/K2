@@ -100,5 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-# ignore yelp data folder, files very big
+# ignore this data folder, big files
 Getting and Cleaning Data/Yelp
+Getting and Cleaning Data/cycle_share
+Getting and Cleaning Data/flights
+Getting and Cleaning Data/legos
+Getting and Cleaning Data/movies
