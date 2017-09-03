@@ -106,3 +106,6 @@ Getting and Cleaning Data/cycle_share
 Getting and Cleaning Data/flights
 Getting and Cleaning Data/legos
 Getting and Cleaning Data/movies
+
+# ignore all data folders
+data/
